@@ -19,6 +19,14 @@ function return_coin_details(coin) {
                         coin_details.name = 'BitBay';
                         coin_details.explorer = 'https://chainz.cryptoid.info/bay/tx.dws?';
                         break;
+		case 'FTC':
+			coin_details.name = 'Feathercoin';
+			coin_details.explorer = 'https://fsight.chain.tips/tx/';
+			break;
+		case 'VRT':
+			coin_details.name = 'Virtus';
+			coin_details.explorer = 'http://213.183.45.119:3001/tx/';
+			break;
 		case 'BTC':
 			coin_details.name = 'Bitcoin';
 			coin_details.explorer = 'https://www.blocktrail.com/BTC/tx/';
@@ -30,6 +38,10 @@ function return_coin_details(coin) {
 		case 'BLK':
 			coin_details.name = 'BlackCoin';
 			coin_details.explorer = 'https://chainz.cryptoid.info/blk//tx.dws?';
+			break;
+		case 'BITS':
+			coin_details.name = 'BitStar';
+			coin_details.explorer = 'http://explorer.v2.bitstarcoin.com/tx/';
 			break;
 		case 'ROI':
 			coin_details.name = 'ROICoin';
