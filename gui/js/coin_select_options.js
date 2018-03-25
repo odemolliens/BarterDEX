@@ -18,6 +18,7 @@ coin_select_options = `<optgroup label="Crypto Coins">
       <option data-content="<img src='img/cryptologo/bco.png' width='30px;'/> BridgeCoin (BCO)" data-tokens="BridgeCoin BCO">BCO</option>
       <option data-content="<img src='img/cryptologo/bta.png' width='30px;'/> Bata (BTA)" data-tokens="Bata BTA">BTA</option>
       <option data-content="<img src='img/cryptologo/bdl.png' width='30px;'/> Bitdeal (BDL)" data-tokens="Bitdeal BDL">BDL</option>
+      <option data-content="<img src='img/cryptologo/bits.png' width='30px;'/> BitStar (BITS)" data-tokens="BitStar BITS">BITS</option>
       <option data-content="<img src='img/cryptologo/btx.png' width='30px'/> Bitcore (BTX)" data-tokens="Bitcore BTX">BTX</option>
       <option data-content="<img src='img/cryptologo/btcp.png' width='30px'/> BitcoinPrivate (BTCP)" data-tokens="BitcoinPrivate BTCP">BTCP</option>
       <option data-content="<img src='img/cryptologo/btcz.png' width='30px'/> BitcoinZ (BTCZ)" data-tokens="BitcoinZ BTCZ">BTCZ</option>
@@ -40,6 +41,7 @@ coin_select_options = `<optgroup label="Crypto Coins">
       <option data-content="<img src='img/cryptologo/erc.png' width='30px'/> EuropeCoin (ERC)" data-tokens="EuropeCoin ERC">ERC</option>
       <option data-content="<img src='img/cryptologo/fair.png' width='30px'/> Faircoin (FAIR)" data-tokens="FAIR Faircoin">FAIR</option>
       <option data-content="<img src='img/cryptologo/flo.png' width='30px'/> Florincoin (FLO)" data-tokens="Florincoin FLO">FLO</option>
+      <option data-content="<img src='img/cryptologo/ftc.png' width='30px'/> Feathercoin (FTC)" data-tokens="Feathercoin FTC">FTC</option>
       <option data-content="<img src='img/cryptologo/gbx.png' width='30px'/> GoByte (GBX)" data-tokens="GoByte GBX">GBX</option>
       <option data-content="<img src='img/cryptologo/glt.png' width='30px'/> GlobalToken (GLT)" data-tokens="GlobalToken GLT">GLT</option>
       <option data-content="<img src='img/cryptologo/grs.png' width='30px'/> Groestlcoin (GRS)" data-tokens="Groestlcoin GRS">GRS</option>
@@ -84,6 +86,7 @@ coin_select_options = `<optgroup label="Crypto Coins">
       <option data-content="<img src='img/cryptologo/uis.png' width='30px'/> Unitus (UIS)" data-tokens="Unitus UIS">UIS</option>
       <option data-content="<img src='img/cryptologo/vtc.png' width='30px'/> Vertcoin (VTC)" data-tokens="Vertcoin VTC">VTC</option>
       <option data-content="<img src='img/cryptologo/via.png' width='30px'/> Viacoin (VIA)" data-tokens="Viacoin VIA">VIA</option>
+      <option data-content="<img src='img/cryptologo/vrt.png' width='30px'/> Virtus (VRT)" data-tokens="Virtus VRT">VRT</option>
       <option data-content="<img src='img/cryptologo/vivo.png' width='30px'/> VIVO (VIVO)" data-tokens="VIVO VIVO">VIVO</option>
       <option data-content="<img src='img/cryptologo/vot.png' width='30px'/> VoteCoin (VOT)" data-tokens="VoteCoin VOT">VOT</option>
       <option data-content="<img src='img/cryptologo/xcoin.png' width='30px'/> xCoin (XCOIN)" data-tokens="xCoin XCOIN">XCOIN</option>
